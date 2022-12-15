@@ -23,12 +23,12 @@
   position: absolute;
   right: 28%;
   top: 290%;
-
+    box-shadow:2px 3px 9px 0px black;
 }
 .test__start:hover {
   color: #000000;
-
   background-color: #ffffff;
+  box-shadow:2px 3px 9px 0px black;
 }
 .test__category {
   position: relative;
@@ -64,6 +64,7 @@
   position: absolute;
   left: 150px;
   top: 500px;
+  box-shadow:2px 3px 9px 0px black;
 }
 
 .question, .result {
