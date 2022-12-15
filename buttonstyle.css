@@ -1,0 +1,108 @@
+img {
+  width: 110px; /*size of box*/
+  height:110px; /*height of box*/
+  overflow:hidden;
+}
+
+img.going {
+  position: fixed;
+  transition: .3s; /*speed of animation*/
+  top: 21%;
+  left: 11%;
+}
+
+img.study {
+  position: fixed;
+  transition: .3s; /*speed of animation*/
+  top: 21%;
+  left: 23.5%;
+}
+
+img.fine {
+  position: fixed;
+  transition: .3s; /*speed of animation*/
+  top: 21%;
+  left: 36%;
+}
+
+img.sec {
+  position: fixed;
+  transition: .3s; /*speed of animation*/
+  top: 21%;
+  left: 48.5%;
+}
+
+img.stay {
+  position: fixed;
+  transition: .3s; /*speed of animation*/
+  top: 21%;
+  left: 60%;
+}
+
+img.bye {
+  position: fixed;
+  transition: .3s; /*speed of animation*/
+  top: 21%;
+  left: 72.5%;
+}
+
+img.expense {
+  position: fixed;
+  transition: .3s; /*speed of animation*/
+  top: 21%;
+  left: 85%;
+}
+
+img.okay {
+  position: fixed;
+  transition: .3s; /*speed of animation*/
+  top: 80%;
+  left: 11%;
+}
+
+img.clap {
+  position: fixed;
+  transition: .3s; /*speed of animation*/
+  top: 80%;
+  left: 23.5%;
+}
+
+img.test {
+  position: fixed;
+  transition: .3s; /*speed of animation*/
+  top: 80%;
+  left: 36%;
+}
+
+img.envy {
+  position: fixed;
+  transition: .3s; /*speed of animation*/
+  top: 80%;
+  left: 48.5%;
+}
+
+img.hungry {
+  position: fixed;
+  transition: .3s; /*speed of animation*/
+  top: 80%;
+  left: 60%;
+}
+
+img.needle {
+  position: fixed;
+  transition: .3s; /*speed of animation*/
+  top: 80%;
+  left: 72.5%;
+}
+
+img.game {
+  position: fixed;
+  transition: .3s; /*speed of animation*/
+  top: 80%;
+  left: 85%;
+}
+
+img:hover {
+  /*transparency of image when you hover over it*/
+opacity: 60%;
+}
