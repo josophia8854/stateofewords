@@ -5,8 +5,8 @@
   font-weight: 400;
   font-style: normal;
   position: fixed;
-  top: 20%;
-  right: 12%;
+  top: 22%;
+  right: 15%;
 }
 .test__start {
   display: block;
@@ -23,7 +23,8 @@
   position: absolute;
   right: 28%;
   top: 290%;
-    box-shadow:2px 3px 9px 0px black;
+  box-shadow:2px 3px 9px 0px black;
+
 }
 .test__start:hover {
   color: #000000;
